@@ -1,5 +1,7 @@
 # ANALYSIS OF SUPERSTORE PERFORMANCE IN UNITED STATES (US)
-This is a small project of analysing the superstore performance in United States (US) using Tableau.
+This is a small project of analysing the superstore performance in United States (US) by using Tableau to create a story (a collection of dashboards). 
+
+The main objectives are to explore the dataset using Tableau's data visualisation tools and create a story which is a collection of few dashboards and describe the key insights from the story, including recommendations to senior management as a result of my discoveries and write it in an individual project work of academic report. From the raw data that I received, I need to spend time exploring, or mining the dataset hoping to discover interesting trends, patterns and relationships.
 
 ## Executive Summary
 The story and the report will only be showing the Superstore Performance in Unites States (US) as I
