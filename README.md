@@ -33,4 +33,22 @@ From figure 1, based on this dataset, if looking at the total profit of differen
 between 2011 and 2014, United States was the most profitable country of superstore, compared to
 other countries in the world.
 
+## 2 Overview of Profitability in United States (US)
+![1](https://user-images.githubusercontent.com/58518483/163546823-2c39e7d9-007c-446c-8d01-8fcec1531842.png)
+![2](https://user-images.githubusercontent.com/58518483/163546862-a3d796fc-9f0e-4e05-97b0-1d39b6572f06.png)
+### 2.1 Overall Superstore Performance in US
+From dashboard 1 in the story, I identified the total sales and total profit in US between year 2011 and
+year 2014 were $2,297,201 and $286,397 respectively. The total average of discount offered in US for
+all category products was 0.1562 which is 15.62%. The total average discount offered in US was
+considerably low, I could think that this is one of the reasons why the superstore’s sum of profits in
+United States was the highest compared to other countries in the world. I would like to find out more
+details to let the superstore performance in US more profitable.
+### 2.2 Profit in United States (US) by State
+Based on the map and “treemap” from dashboard 1, California was the most profitable state in US
+with the total profit of $76,381 between 2011 and 2014, followed by New York, Washington,
+Michigan, Virginia, Indiana and other states. The most unprofitable state with the losses of $25,729
+was Texas. Therefore, the range of the total profit in US was between -$25,729 and $76,381. In this
+case, I would like to find out why Texas was the most losses state in US with the analysis in the second
+dashboard.
+
 © 2021 YUI CHEE XUAN
