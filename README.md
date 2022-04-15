@@ -7,9 +7,7 @@ would like to focus on the analyses in US country. I would also keen to find out
 can be made by US even though the superstore performance in US country was the best compared to
 other countries in the world. However, it is still not the best performance in market as the APAC and
 EU are leading ahead.
-
-![A](https://user-images.githubusercontent.com/58518483/163546196-d7f57fbc-4154-415b-93ce-a91aef580b97.png)
-
+![B](https://user-images.githubusercontent.com/58518483/163546396-9b62d0f7-21fe-4e62-8eb2-32b2d9f0ba69.png)
 Certainly, it can be due to the geographical area sizes of the market. However, let us see what can
 improve in the US country in term of the superstore performance.
 In the dashboard 1 of the story, it will be showing the overview of profitability in US and identifying
